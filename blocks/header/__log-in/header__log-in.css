@@ -1,0 +1,6 @@
+.header__log-in {
+  margin: 0 68px 0 0;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+}
